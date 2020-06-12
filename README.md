@@ -2,6 +2,15 @@
 
 My demo
 
+根据项目config/config.default.js里的mysql配置好mysql,再建一个user表，表字段[ username, password ]
+
+就可以用根目录下的index.html文件请求接口了
+
+
+
+
+
+
 ## QuickStart
 
 <!-- add docs here for user -->
